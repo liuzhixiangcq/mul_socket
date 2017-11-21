@@ -1,0 +1,14 @@
+This is a server/client module for socket by multi-thread
+
+Usage:
+1.client
+	cd client
+	make
+	./client
+	read/write/quit
+2.server
+	cd server
+	make
+	./server
+
+
